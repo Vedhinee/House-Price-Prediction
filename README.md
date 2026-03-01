@@ -67,5 +67,4 @@ This project uses core Python data science libraries:
    https://github.com/Vedhinee/House-Price-Prediction.git
 2. Navigate to Jupyter Notebook and Run the Cells one by one
 
-   ```bash
-   git clone https://github.com/yourusername/house-price-prediction.git
+## Thank You 💗
