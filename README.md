@@ -6,7 +6,7 @@ This is a practice project in Machine Learning focused on predicting house price
 
 This project was completed as a personal exercise to gain hands-on experience with data handling, model training, and results interpretation.
 
----
+
 
 ## Dataset
 
@@ -18,7 +18,7 @@ The dataset used in this project contains various features related to housing at
 
 The goal is to understand how different features correlate with the target variable (house price).
 
----
+
 
 ## What This Project Demonstrates
 
@@ -34,7 +34,7 @@ This repository showcases real skills in:
 - Summary statistics
 - Visual inspection of feature relationships
 
----
+
 
 ## Machine Learning Model Used
 
@@ -46,7 +46,7 @@ This project trains and evaluates a regression model to predict house prices. Th
 
 Specific regression algorithms and performance metrics are used to understand how model quality can be assessed.
 
----
+
 
 ## Tools and Libraries
 
@@ -58,7 +58,7 @@ This project uses core Python data science libraries:
 - scikit-learn
 - sklearn
 
----
+
 
 ## How to Run This Project
 
